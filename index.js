@@ -20,7 +20,7 @@ rl.question("", async (webhookUrl) => {
     console.log(colors.blue(`██─█─█─█─████─▀─████─▄▄▄███─▄▀███─██─███─█▄▀─███─██▄─█`));
     console.log(colors.blue(`▀▀▄▄▄▀▄▄▄▀▀▀▄▄▀▄▄▀▀▄▄▄▀▀▀▀▄▄▀▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▄▄▀▀▄▄▄▄▄▀`));
 
-    console.log(colors.magenta("made by yeezy"));
+    console.log(colors.magenta("made by fwcrimson."));
     console.log(colors.cyan("1. start - start with webhooks msg"));
 
     rl.question("", (option) => {
