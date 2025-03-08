@@ -1,6 +1,6 @@
 const readline = require("readline");
 const fetch = require("node-fetch");
-const colors = require("colors"); // Richtig importiert
+const colors = require("colors");
 
 const rl = readline.createInterface({
     input: process.stdin,
