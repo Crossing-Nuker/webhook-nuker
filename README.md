@@ -16,4 +16,4 @@ npm i discord.js
 credits
 make sure to give credits when giving the repost to any1 else
 coded by fwcrimson.
-For any help join our discord: https://discord.gg/
+For any help join our discord: https://discord.gg/j72kx8avea
