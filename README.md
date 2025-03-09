@@ -8,7 +8,7 @@ make sure before using to install these packages
 colors and node-fetch@2 discord.js
 
 heres how to install
-run in ur terminaj (SSH) these commands
+run in ur terminal (SSH) these commands
 npm i colors
 npm i node-fetch@2
 npm i discord.js
